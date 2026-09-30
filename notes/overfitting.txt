@@ -1,0 +1,5 @@
+Overfitting occurs when a machine learning model learns the training data too well, including its noise and random fluctuations, and fails to generalize to new, unseen data. A model that overfits will show very high accuracy on training data but poor accuracy on validation or test data.
+
+Common ways to reduce overfitting include gathering more training data, using simpler models with fewer parameters, applying regularization techniques like L1 or L2 penalties, using dropout in neural networks, and stopping training early once validation performance stops improving.
+
+Cross-validation is also a useful technique to detect overfitting early, since it tests how well a model generalizes across different subsets of the data rather than relying on a single train/test split.

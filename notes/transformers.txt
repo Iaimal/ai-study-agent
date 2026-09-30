@@ -1,0 +1,5 @@
+Transformers are a neural network architecture introduced in 2017 that rely on a mechanism called attention rather than recurrence or convolution to process sequences of data. This allows them to process entire sequences in parallel, making training significantly faster than older recurrent architectures.
+
+The core idea behind attention is that when processing a word in a sentence, the model can look at every other word and decide how much focus to place on each one, allowing it to capture long-range relationships in text more effectively.
+
+Transformers are the foundation behind large language models such as GPT and Claude. Instead of processing text strictly left to right like older models, they build a rich representation of an entire sequence at once, which is part of why modern language models are so effective at understanding context.

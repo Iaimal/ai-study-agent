@@ -1,0 +1,5 @@
+Gradient descent is an optimization algorithm used to minimize a model's cost function by iteratively adjusting its parameters. It works by calculating the gradient, or slope, of the cost function with respect to each parameter, and then updating the parameters in the direction that reduces the cost.
+
+The learning rate controls how large each update step is. If the learning rate is too high, the algorithm can overshoot the minimum and fail to converge. If it is too low, training can take an extremely long time to reach a good solution.
+
+There are several variants of gradient descent, including batch gradient descent, which uses the entire dataset for each update, stochastic gradient descent, which uses one example at a time, and mini-batch gradient descent, which is a practical middle ground used in most real-world deep learning training.
