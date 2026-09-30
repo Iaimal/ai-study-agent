@@ -2,7 +2,7 @@
 
 A tool-using AI agent that decides for itself how to answer a question — searching your notes, doing a calculation, or checking today's date — instead of always following one fixed path.
 
-**🔗 Live demo:** [](https://ai-study-agent-axvzmddspvrzcv49yhynyk.streamlit.app/)]
+**🔗 Live demo:** [((https://ai-study-agent-axvzmddspvrzcv49yhynyk.streamlit.app/)]
 
 ## What it does
 
