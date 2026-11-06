@@ -1,3 +1,4 @@
 __pycache__/
 .env
-debug_check.py
+debug_check.pymemory_db/
+key_agent.txt
